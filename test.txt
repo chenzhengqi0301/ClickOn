@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-aaaa
-aaa
->>>>>>> origin/master
-ccc
+aa
 bbb
+ccc
