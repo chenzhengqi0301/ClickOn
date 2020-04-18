@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 aaaa
-=======
+===
 aaa
 >>>>>>> origin/master
+c
 bbb
